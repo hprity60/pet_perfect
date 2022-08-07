@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158863130048",
+    "project_id": "pet-perfect",
+    "storage_bucket": "pet-perfect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158863130048:android:79d485c4dbded1d0245c25",
+        "android_client_info": {
+          "package_name": "com.example.pet_perfect_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158863130048-ledb8c66g43va86aoa1vt95pg7958dtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0hvafh2vsb1i7hvKP1BE7s_dXS4aGXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158863130048-ledb8c66g43va86aoa1vt95pg7958dtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
